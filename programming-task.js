@@ -1,4 +1,4 @@
-// I solved this problem using 2 different ways.Two is commented out. You can uncomment them and Test them.
+// I solved this problem using 2 different ways.Two is commented out. You can uncomment that and Test it.
 
 // solution 1
 
